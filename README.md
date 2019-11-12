@@ -5,4 +5,4 @@ PCA.py: Principal Component Analysis
 RandomForest.py: Random Forest classifier
 SMOTE_sampling.py: sampling process
 fisher_discrimination.py: Fisher Discrimination classifier
-Report: technical report of this project in Chinese
+Report.pdf: technical report of this project in Chinese
